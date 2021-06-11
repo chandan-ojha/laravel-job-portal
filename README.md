@@ -1,9 +1,4 @@
-# Laravel 8 Job Listings with Adminpanel
-
-Transformed [free Bootstrap theme Joblisting](https://colorlib.com/wp/template/joblisting/) by [Colorlib](https://colorlib.com/wp/) into fully manageable Laravel 8 project with adminpanel generated with [QuickAdminPanel](https://quickadminpanel.com), 
-to manage all the jobs, companies and categories.
-
-- - - - -
+# Laravel 8 Job Portal with Adminpanel
 
 ## Front-side Screenshots 
 
@@ -19,11 +14,6 @@ to manage all the jobs, companies and categories.
 
 ![Laravel Job Listings list](https://laraveldaily.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-29-at-9.49.25-AM.png)
 
-- Front-end part is taken from [Bootstrap Joblisting Theme](https://colorlib.com/wp/template/joblisting/) and transformed into Laravel Blade and assets.
-- Admin part is fully generated with [QuickAdminPanel](https://2019.quickadminpanel.com).
-
----
-
 ## How to use
 
 - Clone the repository with __git clone__
@@ -34,16 +24,4 @@ to manage all the jobs, companies and categories.
 - That's it: launch the main URL. 
 - You can login to adminpanel by going go `/login` URL and login with credentials __admin@admin.com__ - __password__
 
-## License
 
-Basically, feel free to use and re-use any way you want.
-
----
-
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
